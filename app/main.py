@@ -1,5 +1,6 @@
 import streamlit as st
 import base64, os
+
 from prediction_helper import predict
 
 # ── Page Config ─────────────────────────────────────────────────────────────
